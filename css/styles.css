@@ -1,0 +1,17 @@
+body {
+ background-color: aqua;    
+}
+
+.tittle{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#texto{
+    color: rgb(222, 92, 92);
+}
+
+.kinal{
+    text-align: center;
+}
+
